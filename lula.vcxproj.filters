@@ -30,7 +30,7 @@
     <ClInclude Include="LuaResource.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="LuaServer.h">
+    <ClInclude Include="LuaLoader.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -50,7 +50,7 @@
     <ClCompile Include="LuaResource.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="LuaServer.cpp">
+    <ClCompile Include="LuaLoader.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

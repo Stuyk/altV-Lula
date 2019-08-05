@@ -165,7 +165,7 @@
     <ClInclude Include="framework.h" />
     <ClInclude Include="LuaResource.h" />
     <ClInclude Include="LuaScriptRuntime.h" />
-    <ClInclude Include="LuaServer.h" />
+    <ClInclude Include="LuaLoader.h" />
     <ClInclude Include="pch.h" />
   </ItemGroup>
   <ItemGroup>
@@ -173,7 +173,7 @@
     <ClCompile Include="dllmain.cpp" />
     <ClCompile Include="LuaResource.cpp" />
     <ClCompile Include="LuaScriptRuntime.cpp" />
-    <ClCompile Include="LuaServer.cpp" />
+    <ClCompile Include="LuaLoader.cpp" />
     <ClCompile Include="pch.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
